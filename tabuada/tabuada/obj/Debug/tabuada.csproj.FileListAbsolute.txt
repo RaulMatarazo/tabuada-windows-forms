@@ -1,0 +1,20 @@
+C:\Users\alunos\source\repos\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\alunos\source\repos\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\alunos\source\repos\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.csprojAssemblyReference.cache
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.Form1.resources
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.Properties.Resources.resources
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.csproj.GenerateResource.cache
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\alunos\source\repos\tabuada\tabuada\obj\Debug\tabuada.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.Form1.resources
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\DELL\OneDrive\Área de Trabalho\Meus projetos\tabuada\tabuada\obj\Debug\tabuada.pdb
